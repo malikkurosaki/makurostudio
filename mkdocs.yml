@@ -1,0 +1,13 @@
+site_name: Makuro Studio
+# site_url: https://github.com/malikkurosaki/makuro-studio
+repo_url: https://github.com/malikkurosaki/makuro-studio
+edit_uri: '/malikkurosaki/makuro-studio/edit/main/'
+site_description: "ini adalah keterangannya"
+site_author: "malikkurosaki"
+remote_branch: "main"
+nav:
+    - Home: '/'
+    - About: about.md
+    - 'JavaScript': 
+      - "vanila": "javascript/vanila.md"
+      - "nodejs": "javascript/xxnote.md"
