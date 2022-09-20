@@ -4,7 +4,7 @@ repo_url: https://github.com/malikkurosaki/makuro-studio
 edit_uri: '/malikkurosaki/makuro-studio/edit/main/'
 site_description: "ini adalah keterangannya"
 site_author: "malikkurosaki"
-remote_branch: "main"
+remote_branch: "main" 
 nav:
     - Home: '/'
     - About: about.md
