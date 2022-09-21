@@ -1,7 +1,7 @@
 site_name: Makuro Studio
-# site_url: https://github.com/malikkurosaki/makuro-studio
+# site_url: https://makurostudio.my.id
 repo_url: https://github.com/malikkurosaki/makuro-studio
-edit_uri: '/malikkurosaki/makuro-studio/edit/main/'
+edit_uri: '/malikkurosaki/makurostudio//edit/main/docs/'
 site_description: "ini adalah keterangannya"
 site_author: "malikkurosaki" 
 remote_branch: "main"
