@@ -1,0 +1,10 @@
+[
+    {
+        "text": "my unit test failed",
+        "category": "software"
+    },
+    {
+        "text": "my driver is working",
+        "category": "hardware"
+    }
+]

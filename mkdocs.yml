@@ -1,13 +1,16 @@
 site_name: Makuro Studio
 # site_url: https://makurostudio.my.id
 repo_url: https://github.com/malikkurosaki/makuro-studio
-edit_uri: '/malikkurosaki/makurostudio//edit/main/docs/'
+edit_uri: "/malikkurosaki/makurostudio//edit/main/docs/"
 site_description: "ini adalah keterangannya"
-site_author: "malikkurosaki" 
+site_author: "malikkurosaki"
 remote_branch: "main"
 nav:
-    - Home: '/'
-    - About: about.md
-    - 'JavaScript': 
+  - Home: "/"
+  - "Tentang": about.md
+  - "JavaScript":
       - "vanila": "javascript/vanila.md"
-      - "nodejs": "javascript/xxnote.md"
+      - "nodejs": "javascript/nodejs.md"
+  - "package":
+      - "nodejs": 
+        - "brainjs": "package/nodejs/brainjs.md"
