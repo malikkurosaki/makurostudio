@@ -14,3 +14,5 @@ nav:
   - "package":
       - "nodejs": 
         - "brainjs": "package/nodejs/brainjs.md"
+theme:
+  name: material
