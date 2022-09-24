@@ -5,7 +5,7 @@ const app = express();
 const fs = require('fs');
 const path = require('path');
 
-
+app.use(cors());
 app.use(express.static('./site'))
 
 app.get('/assets/img/:name', (req, res) => {

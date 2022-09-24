@@ -5,7 +5,7 @@ edit_uri: "/malikkurosaki/makurostudio//edit/main/docs/"
 site_description: "ini adalah keterangannya"
 site_author: "malikkurosaki"
 remote_branch: "main"
-dev_addr: "localhost:8080"
+# dev_addr: "localhost:8080"
 nav:
   - 'index.md'
   - "Tentang": about.md
