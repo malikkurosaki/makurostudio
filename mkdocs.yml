@@ -15,6 +15,7 @@ nav:
   - "package":
       - "nodejs":
           - "brainjs": "package/nodejs/brainjs.md"
+  - "about me": "about_me.md"
 theme:
   name: material
 markdown_extensions:
