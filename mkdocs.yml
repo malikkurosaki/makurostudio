@@ -26,6 +26,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
 
   features:
     - header.autohide
