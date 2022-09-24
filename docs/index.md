@@ -5,7 +5,7 @@
 ![flutter](http://localhost:8080/assets/img/flutter1.png)
 
 ### build powerfull server with nodejs
-![nodejs](http://localhost:8080/assets/img/nodejs1.png)
+![nodejs](http://localhost:8080/assets/images/flutter1.png)
 
 ```js
 var nama = "malik"
