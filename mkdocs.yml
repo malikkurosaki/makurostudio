@@ -1,14 +1,17 @@
 site_name: Makuro Studio
 # site_url: https://makurostudio.my.id
-repo_url: https://github.com/malikkurosaki/makuro-studio
-edit_uri: "/malikkurosaki/makurostudio//edit/main/docs/"
+repo_url: https://github.com/malikkurosaki/makurostudio
+repo_name: malikkurosaki/makurostudio
+edit_uri: "/malikkurosaki/makurostudio/edit/main/docs/"
 site_description: "ini adalah keterangannya"
 site_author: "malikkurosaki"
 remote_branch: "main"
 # dev_addr: "localhost:8080"
 nav:
-  - 'index.md'
+  - "index.md"
   - "Tentang": about.md
+  - "Flutter":
+      - "Flutter": "flutter/flutter.md"
   - "JavaScript":
       - "vanila": "javascript/vanila.md"
       - "nodejs": "javascript/nodejs.md"
@@ -18,6 +21,16 @@ nav:
   - "about me": "about_me.md"
 theme:
   name: material
+  logo: favicon.ico
+  favicon: favicon.ico
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+
+  features:
+    - header.autohide
+    - navigation.tabs
+    - toc.follow
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -30,5 +43,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 docs_dir: docs
-# plugins:
-#   - glightbox
+copyright: Copyright &copy; 2022 Malikkurosaki
+extra:
+  consent:
+    actions:
+      - accept
+      - manage
