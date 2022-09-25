@@ -1,3 +1,8 @@
+---
+hide:
+    - footer
+---
+
 # About Me
 
 ![makuro](http://localhost:8080/assets/img/makuro.png)
@@ -97,4 +102,20 @@ bermula dari simple html, css hingga php dan java serta javascript semuanya dipe
 - Prisma JS
 - Sfqlite
 - Hive Db
+
+<script src="https://giscus.app/client.js"
+        data-repo="malikkurosaki/makurostudio"
+        data-repo-id="R_kgDOG4hhmw"
+        data-category="General"
+        data-category-id="DIC_kwDOG4hhm84CRnPc"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="id"
+        crossorigin="anonymous"
+        async>
+</script>
 

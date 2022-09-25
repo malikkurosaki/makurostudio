@@ -1,7 +1,7 @@
 ---
-comments: true
+hide:
+  - footer
 ---
-
 # Makuro Studio
 
 
