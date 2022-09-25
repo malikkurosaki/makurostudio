@@ -61,6 +61,8 @@ bermula dari simple html, css hingga php dan java serta javascript semuanya dipe
 - Skeleton
 - Miligram
 - PureCss
+- createjs https://www.createjs.com/
+- w3-css
 
 ### Penguasaan Template Engine
 - Mustache
@@ -90,7 +92,7 @@ bermula dari simple html, css hingga php dan java serta javascript semuanya dipe
 - Web
 - Desktop
 - Cli
-- Machile Learning Ai
+- Ml Ai
 
 ### Database And Orm
 - MySql
