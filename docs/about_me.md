@@ -5,7 +5,7 @@ hide:
 
 # About Me
 
-![makuro](http://localhost:8080/assets/img/makuro.png)
+![makuro](https://makurostudio.my.id/assets/img/makuro.png)
 
 saya adalah seorang programer otodidak , pembelajaran didapat dari browsing dan youtube dari tahun 2014 hingga sekarang
 bermula dari simple html, css hingga php dan java serta javascript semuanya dipelajari secara otodidak secara intens

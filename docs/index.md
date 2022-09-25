@@ -6,7 +6,7 @@ hide:
 
 
 ## Build beautifull app with flutter
-![flutter](http://localhost:8080/assets/img/flutter1.png)
+![flutter](https://makurostudio.my.id/assets/img/flutter1.png)
 Flutter is an open-source software development kit which enables smooth and easy cross-platform mobile app development. You can build high quality natively compiled apps for iOS and Android quickly, without having to write the code for the two apps separately. All you need is one codebase for both platforms.
 
 Last year, Tim Sneath, product manager of Flutter announced an increasing use of Flutter with more than 2 million developers using the toolkit since its release in 2018. The spring update also reveals that it's seeing an uptick in not just consumer apps but also enterprise app development.
@@ -30,15 +30,15 @@ Google itself uses Flutter for several modules of the Google Assistant and for t
 ### Apps developed on Flutter
 
 The popularity of Flutter app development is constantly growing. Now Flutter is widely used to create apps for the likes of Alibaba, Yandex, Airbnb, Uber, eBay and other leading companies. Here is a selection of the top Flutter apps.
-![flutter2](http://localhost:8080/assets/img/flutter2.png)
-![flutter3](http://localhost:8080/assets/img/flutter3.png)
+![flutter2](https://makurostudio.my.id/assets/img/flutter2.png)
+![flutter3](https://makurostudio.my.id/assets/img/flutter3.png)
 
 more: [App Flutter](https://flutter.dev/showcase)  
 source: https://www.appify.digital/post/flutter-app-development
 
 
 ## Build powerfull server with nodejs
-![nodejs](http://localhost:8080/assets/img/nodejs1.png)
+![nodejs](https://makurostudio.my.id/assets/img/nodejs1.png)
 JavaScript is one of the most popular programming languages in the world. It powers millions of websites today, and it has attracted droves of developers and designers to build features for the web. If you’re new to programming, JavaScript is easily one of the best programming languages to get under your belt.
 
 For its first 20 years, JavaScript was used mainly for client-side scripting. Since JavaScript could be used only within the `<script>` tag, developers had to work in multiple languages and frameworks between the front-end and back-end components. Later came Node.js, which is a run-time environment that includes everything required to execute a program written in JavaScript.
@@ -55,7 +55,7 @@ Node.js uses the “Single Threaded Event Loop” architecture to handle multipl
 
 In a multi-threaded request-response model, multiple clients send a request, and the server processes each one before sending the response back. However, multiple threads are used to process concurrent calls. These threads are defined in a thread pool, and each time a request comes in, an individual thread is assigned to handle it.
 
-![nodejs](http://localhost:8080/assets/img/node2.png)
+![nodejs](https://makurostudio.my.id/assets/img/node2.png)
 
 Node.js works differently. Let’s take a look at each step it goes through:
 
